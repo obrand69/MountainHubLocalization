@@ -42,8 +42,8 @@
 "sign_up":"Sign up",
 "forgot_password":"Forgot password?",
 "log_in_with_facebook":"Log in with Facebook",
-"sorry_we_couldnt_find_a_user_with_that_email_address":"Sorry! We couldn't find a user with that e-mail address."
-"this_password_doesn't_match_our_records":"This password doesn't match our records. Please try again."
+"sorry_we_couldnt_find_a_user_with_that_email_address":"Sorry! We couldn't find a user with that e-mail address.",
+"this_password_doesn't_match_our_records":"This password doesn't match our records. Please try again.",
 "password_reset_message":"Instructions for resetting your password will be sent to this e-mail address.",
 "sorry_this_account_has_been_disabled":"Sorry! This account has been disabled.",
 "send_email":"Send E-mail",
@@ -51,10 +51,13 @@
 "terms_of_use_and_privacy_policy_title":"Terms & Privacy",
 "or_log_in_with_your_email_address":"or log in with your e-mail address",
 "or_sign_up_with_your_email_address":"or sign up with your e-mail address",
-
-
-"username":"Full Name",
-"email":"Email",
-"Password":"Password",
-"BossMan":"Olivier"
+"terrain_visualization":"Terrain Visualization",
+"terrain_slope":"Slope",
+"terrain_elevation":"Elevation",
+"terrain_aspect":"Aspect",
+"terrain_custom":"Custom",
+"terrain_custom_range":"Custom Range",
+"terrain_reset":"RESET",
+"terrain_data_not_available":"Terrain data is not available for the current map region.",
+"no_network":"No Network"
 }
