@@ -1,4 +1,18 @@
 {
+"welcome_to":"Welcome to",
+"create_an_account":"Create an Account",
+"already_have_an_account":"Already have an Account?",
+"log_in":"Log in",
+"sign_up_with_facebook":"Sign up with Facebook",
+"full_name":"Full Name",
+"please enter your full name":"Please enter your full name.",
+"email":"Email",
+"please_use_a_valid_email_address":"Please use a valid email address."
+"this_email_is_in_use":"This email is in use. Please try another."
+"password":"Password",
+"password_must_be_at_least_six_characters":"Password must be at least six characters."
+
+
 "username":"Full Name",
 "email":"Email",
 "Password":"Password",
